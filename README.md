@@ -202,7 +202,7 @@ If you find this work useful, please cite (once published):
 ## Timeline
 
 - **[2024/11]** Paper submitted to TPAMI
-- **[2024/11]** Repository structure created
+- **[2025/11]** Repository structure created
 - **[TBD]** Paper acceptance notification
 - **[TBD]** **Complete code release immediately upon publication**
 
@@ -222,4 +222,4 @@ We appreciate your understanding and support in maintaining research integrity. 
 
 **License**: MIT License (permissive open-source)
 
-**Last Updated**: November 2024
+**Last Updated**: November 2025
